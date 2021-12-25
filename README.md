@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Thirumurthi 👋
+
+- 📫 How to reach me: 
+   - [Twitter]: https://twitter.com/sthirumurthi
+   - [LinkedIn]: https://www.linkedin.com/in/thirumurthis/
+   - [Stackoverflow]: https://stackoverflow.com/users/3192775/tim
+
 
 <!--
 **thirumurthis/thirumurthis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
