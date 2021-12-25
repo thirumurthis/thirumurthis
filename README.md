@@ -1,9 +1,8 @@
 ### Hi there, I am Thirumurthi 👋
 
-- 📫 How to reach me: 
-- [Twitter]: https://twitter.com/sthirumurthi
-- [LinkedIn]: https://www.linkedin.com/in/thirumurthis/
-- [Stackoverflow]: https://stackoverflow.com/users/3192775/tim
+- 📫 How to reach me: [Twitter]: https://twitter.com/sthirumurthi
+- 📫 How to reach me: [LinkedIn]: https://www.linkedin.com/in/thirumurthis/
+- 📫 How to reach me: [Stackoverflow]: https://stackoverflow.com/users/3192775/tim
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
