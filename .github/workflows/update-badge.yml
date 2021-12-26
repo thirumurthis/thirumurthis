@@ -18,4 +18,4 @@ jobs:
           REPOSITORY: thirumurthis/thirumurthis # optional, By default, it will automatically use the repository who's executing the workflow.
           COMMIT_MESSAGE: "My commit message to update badges" # optional
           CREDLY_USER: thirumurthi.s@gmail.com # optional, but default will use the same from github
-          CREDLY_SORT: RECENT or POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
+          CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
