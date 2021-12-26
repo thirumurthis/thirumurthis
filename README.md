@@ -14,6 +14,11 @@
 - [Answer by Tim for Databricks - readstream from delta table writestream to orc file only with changes](https://stackoverflow.com/questions/69775433/databricks-readstream-from-delta-table-writestream-to-orc-file-only-with-chang/70227670#70227670)
 <!-- STACKOVERFLOW:END -->
 
+### Badge and Achivements
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+### Git Activity
 
 [![Thirumurthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thirumurthis&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
