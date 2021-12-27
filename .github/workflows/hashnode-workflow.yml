@@ -18,6 +18,7 @@ jobs:
 
         with:
           USERNAME: 'Thirumurthi' # Hashnode Username updated
-          COUNT: 10 # MAX Visisble
+          COUNT: 5 # MAX Visible
+          STYLE: blog
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_SECRET_BADGE_STORE_CRED }}
