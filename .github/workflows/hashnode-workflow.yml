@@ -1,0 +1,22 @@
+name: "📚 Blog Updater"
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs Every Day
+  workflow_dispatch:
+
+jobs:
+  update_blogs:
+    name: "Update Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: 'Thirumurthi' # Hashnode Username updated
+          COUNT: 10 # MAX Visisble
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIT_SECRET_BADGE_STORE_CRED }}
