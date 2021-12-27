@@ -14,8 +14,8 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@1.1.1"
 
         with:
-          USERNAME: 'Thirumurthi' # Hashnode Username updated
+          USERNAME: ${{ env.hash_node.HASHNODE_NAME }} # Hashnode Username updated
           COUNT: 5 # MAX Visible
-          STYLE: blog
+          STYLE: list
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_SECRET_BADGE_STORE_CRED }}
