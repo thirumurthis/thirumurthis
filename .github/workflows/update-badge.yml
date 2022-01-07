@@ -14,7 +14,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          # GH_TOKEN: ${{ secrets.GIT_SECRET_BADGE_STORE_CRED }} # Token in case not using the same repo 
+          GH_TOKEN: ${{ secrets.GIT_SECRET_BADGE_STORE_CRED }} # Token in case not using the same repo 
           REPOSITORY: thirumurthis/thirumurthis # optional, By default, it will automatically use the repository who's executing the workflow.
           COMMIT_MESSAGE: "My commit message to update badges" # optional
           CREDLY_USER: thirumurthis # optional, but default will use the same from github
