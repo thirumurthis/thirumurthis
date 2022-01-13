@@ -23,6 +23,8 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Simple javascript ECMA 6 lambda examples](https://thirumurthi.hashnode.dev/simple-javascript-ecma-6-lambda-examples-ckyc90f1t01n9tcs16vrp0ulj)
+- [Java 8 lambda use cases](https://thirumurthi.hashnode.dev/java-8-lambda-use-cases-ckyc6xb1d01f9sbs1h9dv13uc)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
