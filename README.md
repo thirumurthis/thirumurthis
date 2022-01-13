@@ -21,7 +21,7 @@
 [![Completion Award for Oracle MOOC: Java Virtual Machine Troubleshooting (2018)](https://images.credly.com/size/110x110/images/005a363c-b0a4-4f8a-85a3-64eafb7ad690/jvm.png)](http://www.credly.com/badges/cc359454-dbbb-410f-9b8a-2cf0f15dfe9d "Completion Award for Oracle MOOC: Java Virtual Machine Troubleshooting (2018)")
 <!--END_SECTION:badges-->
 
-## My Latest Blog Posts 👇
+### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 

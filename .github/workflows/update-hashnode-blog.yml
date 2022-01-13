@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'Thirumurthi' # Hashnode Username
+          USERNAME: 'thirumurthi' # Hashnode Username
           COUNT: 5 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_SECRET_BADGE_STORE_CRED }}
