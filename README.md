@@ -23,6 +23,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Fetching Azure Kubernetes Service (AKS) Events from Azure Log Analytics Workspace](https://thirumurthi.hashnode.dev/fetching-azure-kubernetes-service-aks-events-from-azure-log-analytics-workspace-ckyjp1w3701wo7js1b00c324t)
 - [Working with CosmosDB emulator and Java clients - SQL API](https://thirumurthi.hashnode.dev/working-with-cosmosdb-emulator-and-java-clients-sql-api-ckycjxz9800cap8s1f6esdp1q)
 - [Simple javascript ECMA 6 lambda examples](https://thirumurthi.hashnode.dev/simple-javascript-ecma-6-lambda-examples-ckyc90f1t01n9tcs16vrp0ulj)
 - [Java 8 lambda use cases](https://thirumurthi.hashnode.dev/java-8-lambda-use-cases-ckyc6xb1d01f9sbs1h9dv13uc)
