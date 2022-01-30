@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [Answer by Tim for Azure Databricks job fails to access ADLS storage after renewing service principal](https://stackoverflow.com/questions/70887371/azure-databricks-job-fails-to-access-adls-storage-after-renewing-service-princip/70888672#70888672)
+- [Azure Databricks job fails to access ADLS storage after renewing service principal](https://stackoverflow.com/questions/70887371/azure-databricks-job-fails-to-access-adls-storage-after-renewing-service-princip)
+- [Answer by Tim for Graph DFS with Integer object data type returns incorrect results](https://stackoverflow.com/questions/70817859/graph-dfs-with-integer-object-data-type-returns-incorrect-results/70854806#70854806)
+- [Graph DFS with Integer object data type returns incorrect results](https://stackoverflow.com/questions/70817859/graph-dfs-with-integer-object-data-type-returns-incorrect-results)
 - [Answer by Tim for Databricks dbutils not displaying folder list under specfic folder](https://stackoverflow.com/questions/70469975/databricks-dbutils-not-displaying-folder-list-under-specfic-folder/70470063#70470063)
-- [Databricks dbutils not displaying folder list under specfic folder](https://stackoverflow.com/questions/70469975/databricks-dbutils-not-displaying-folder-list-under-specfic-folder)
-- [Answer by Tim for Converting epoch to datetime in PySpark data frame using udf](https://stackoverflow.com/questions/49971903/converting-epoch-to-datetime-in-pyspark-data-frame-using-udf/70356729#70356729)
-- [databricks cli to update job shcedule](https://stackoverflow.com/questions/70342176/databricks-cli-to-update-job-shcedule)
-- [Answer by Tim for Databricks - readstream from delta table writestream to orc file only with changes](https://stackoverflow.com/questions/69775433/databricks-readstream-from-delta-table-writestream-to-orc-file-only-with-chang/70227670#70227670)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
@@ -23,6 +23,9 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Binary Search - Iterative approach and variation for different problems](https://thirumurthi.hashnode.dev/binary-search-iterative-approach-and-variation-for-different-problems-ckytr3lfy0qag66s1gzmpb1xz)
+- [Fetching Azure Kubernetes Service (AKS) Events from Azure Log Analytics Workspace](https://thirumurthi.hashnode.dev/fetching-azure-kubernetes-service-aks-events-from-azure-log-analytics-workspace-ckyjp1w3701wo7js1b00c324t)
+- [Working with CosmosDB emulator and Java clients - SQL API](https://thirumurthi.hashnode.dev/working-with-cosmosdb-emulator-and-java-clients-sql-api-ckycjxz9800cap8s1f6esdp1q)
 - [Simple javascript ECMA 6 lambda examples](https://thirumurthi.hashnode.dev/simple-javascript-ecma-6-lambda-examples-ckyc90f1t01n9tcs16vrp0ulj)
 - [Java 8 lambda use cases](https://thirumurthi.hashnode.dev/java-8-lambda-use-cases-ckyc6xb1d01f9sbs1h9dv13uc)
 <!-- HASHNODE_BLOG:END -->
