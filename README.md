@@ -23,6 +23,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Idea of building Spring Boot App and deploying in Heroku platform](https://thirumurthi.hashnode.dev/idea-of-building-spring-boot-app-and-deploying-in-heroku-platform-ckz9k0kdd0q33ccs16log9abo)
 - [Deploying Apache Artemis to Azure Kubernetes Service](https://thirumurthi.hashnode.dev/deploying-apache-artemis-to-azure-kubernetes-service-ckz22eh4i037eifs107t5d3az)
 - [Apache Camel to consume xml content from Spring Boot API end-point - EIP sample](https://thirumurthi.hashnode.dev/apache-camel-to-consume-xml-content-from-spring-boot-api-end-point-eip-sample-ckz21ked60dyfmjs1dudi5syp)
 - [Spring boot REST API to produce xml reading from file](https://thirumurthi.hashnode.dev/spring-boot-rest-api-to-produce-xml-reading-from-file-ckz1y6nsk02k4ifs1gb4m62q2)
