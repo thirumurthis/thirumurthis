@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [Databricks Delta table column with double data type to store long value](https://stackoverflow.com/questions/71152754/databricks-delta-table-column-with-double-data-type-to-store-long-value)
 - [Answer by Tim for Azure Databricks job fails to access ADLS storage after renewing service principal](https://stackoverflow.com/questions/70887371/azure-databricks-job-fails-to-access-adls-storage-after-renewing-service-princip/70888672#70888672)
 - [Azure Databricks job fails to access ADLS storage after renewing service principal](https://stackoverflow.com/questions/70887371/azure-databricks-job-fails-to-access-adls-storage-after-renewing-service-princip)
 - [Answer by Tim for Graph DFS with Integer object data type returns incorrect results](https://stackoverflow.com/questions/70817859/graph-dfs-with-integer-object-data-type-returns-incorrect-results/70854806#70854806)
 - [Graph DFS with Integer object data type returns incorrect results](https://stackoverflow.com/questions/70817859/graph-dfs-with-integer-object-data-type-returns-incorrect-results)
-- [Answer by Tim for Databricks dbutils not displaying folder list under specfic folder](https://stackoverflow.com/questions/70469975/databricks-dbutils-not-displaying-folder-list-under-specfic-folder/70470063#70470063)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
