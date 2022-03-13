@@ -23,6 +23,9 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Using JMX and its use in Apache Cassandra and Apache Artemis](https://thirumurthi.hashnode.dev/using-jmx-and-its-use-in-apache-cassandra-and-apache-artemis-cl0ngzrjr00b12onv8ugb45ht)
+- [Simple approach to learn Data Structures in structured way](https://thirumurthi.hashnode.dev/simple-approach-to-learn-data-structures-in-structured-way-cl0lxklcr055ltbnv6m1m4zkm)
+- [Ship SpringBoot App logs directly to Elastic Search](https://thirumurthi.hashnode.dev/ship-springboot-app-logs-directly-to-elastic-search-cl0ewci6q000u3bnvftmi67uj)
 - [Index and Search PDF content using Lucene and PDFBox libraries](https://thirumurthi.hashnode.dev/index-and-search-pdf-content-using-lucene-and-pdfbox-libraries-cl0ebh0qu05ooo5nvgkdh0kq7)
 - [Apache Lucene Core Terminology](https://thirumurthi.hashnode.dev/apache-lucene-core-terminology-cl0e8b8wp05emm9nv12sd1oqo)
 - [Working with Dataframes (PySpark) in Databricks](https://thirumurthi.hashnode.dev/working-with-dataframes-pyspark-in-databricks-cl04xx6y00802udnvh1nl3zux)
@@ -30,9 +33,6 @@
 - [Accessing REST End-point using Java HTTPClient](https://thirumurthi.hashnode.dev/accessing-rest-end-point-using-java-httpclient-ckzm2vl7u038cqjs1733eavfv)
 - [Mount Azure ADLS storage in Azure Databricks with Service Principal](https://thirumurthi.hashnode.dev/mount-azure-adls-storage-in-azure-databricks-with-service-principal-ckzm1qd530322rks1h4nm5322)
 - [Accessing REST End-point using Feign Client](https://thirumurthi.hashnode.dev/accessing-rest-end-point-using-feign-client-ckzhuduh80sz0lws10zuudt5a)
-- [Idea of building Spring Boot App and deploying in Heroku platform](https://thirumurthi.hashnode.dev/idea-of-building-spring-boot-app-and-deploying-in-heroku-platform-ckz9k0kdd0q33ccs16log9abo)
-- [Deploying Apache Artemis to Azure Kubernetes Service](https://thirumurthi.hashnode.dev/deploying-apache-artemis-to-azure-kubernetes-service-ckz22eh4i037eifs107t5d3az)
-- [Apache Camel to consume xml content from Spring Boot API end-point - EIP sample](https://thirumurthi.hashnode.dev/apache-camel-to-consume-xml-content-from-spring-boot-api-end-point-eip-sample-ckz21ked60dyfmjs1dudi5syp)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
