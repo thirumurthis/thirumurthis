@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [Answer by Tim for JQ — Return first element that satisfies a predicate](https://stackoverflow.com/questions/71528675/jq-return-first-element-that-satisfies-a-predicate/71529306#71529306)
+- [Answer by Tim for How to use synchronized block in java?](https://stackoverflow.com/questions/71508215/how-to-use-synchronized-block-in-java/71508449#71508449)
+- [Is there an option to directly delete rows in ORC file in pyspark or databricks](https://stackoverflow.com/questions/71475195/is-there-an-option-to-directly-delete-rows-in-orc-file-in-pyspark-or-databricks)
 - [Qpid client connectionFactory to connect to ArtemisMQ cluster](https://stackoverflow.com/questions/71210963/qpid-client-connectionfactory-to-connect-to-artemismq-cluster)
 - [Databricks Delta table column with double data type to store long value](https://stackoverflow.com/questions/71152754/databricks-delta-table-column-with-double-data-type-to-store-long-value)
-- [Answer by Tim for Azure Databricks job fails to access ADLS storage after renewing service principal](https://stackoverflow.com/questions/70887371/azure-databricks-job-fails-to-access-adls-storage-after-renewing-service-princip/70888672#70888672)
-- [Azure Databricks job fails to access ADLS storage after renewing service principal](https://stackoverflow.com/questions/70887371/azure-databricks-job-fails-to-access-adls-storage-after-renewing-service-princip)
-- [Answer by Tim for Graph DFS with Integer object data type returns incorrect results](https://stackoverflow.com/questions/70817859/graph-dfs-with-integer-object-data-type-returns-incorrect-results/70854806#70854806)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
