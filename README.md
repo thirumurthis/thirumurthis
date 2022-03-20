@@ -23,6 +23,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Monitoring Apache Artemis JMX service with ELK stack](https://thirumurthi.hashnode.dev/monitoring-apache-artemis-jmx-service-with-elk-stack-cl0pxq9w101smyunv9ztp15g4)
 - [Using JMX and its use in Apache Cassandra and Apache Artemis](https://thirumurthi.hashnode.dev/using-jmx-and-its-use-in-apache-cassandra-and-apache-artemis-cl0ngzrjr00b12onv8ugb45ht)
 - [Simple approach to learn Data Structures in structured way](https://thirumurthi.hashnode.dev/simple-approach-to-learn-data-structures-in-structured-way-cl0lxklcr055ltbnv6m1m4zkm)
 - [Ship SpringBoot App logs directly to Elastic Search](https://thirumurthi.hashnode.dev/ship-springboot-app-logs-directly-to-elastic-search-cl0ewci6q000u3bnvftmi67uj)
@@ -32,7 +33,6 @@
 - [Accessing REST End-point using Spring WebClient](https://thirumurthi.hashnode.dev/accessing-rest-end-point-using-spring-webclient-ckzns1lyo0azoo2s1c97gc8iy)
 - [Accessing REST End-point using Java HTTPClient](https://thirumurthi.hashnode.dev/accessing-rest-end-point-using-java-httpclient-ckzm2vl7u038cqjs1733eavfv)
 - [Mount Azure ADLS storage in Azure Databricks with Service Principal](https://thirumurthi.hashnode.dev/mount-azure-adls-storage-in-azure-databricks-with-service-principal-ckzm1qd530322rks1h4nm5322)
-- [Accessing REST End-point using Feign Client](https://thirumurthi.hashnode.dev/accessing-rest-end-point-using-feign-client-ckzhuduh80sz0lws10zuudt5a)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
