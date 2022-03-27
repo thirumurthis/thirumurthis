@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [Answer by Tim for databricks cli in git bash on windows returns error message invalid parameter](https://stackoverflow.com/questions/71580686/databricks-cli-in-git-bash-on-windows-returns-error-message-invalid-parameter/71580864#71580864)
+- [databricks cli in git bash on windows returns error message invalid parameter](https://stackoverflow.com/questions/71580686/databricks-cli-in-git-bash-on-windows-returns-error-message-invalid-parameter)
 - [Answer by Tim for JQ — Return first element that satisfies a predicate](https://stackoverflow.com/questions/71528675/jq-return-first-element-that-satisfies-a-predicate/71529306#71529306)
 - [Answer by Tim for How to use synchronized block in java?](https://stackoverflow.com/questions/71508215/how-to-use-synchronized-block-in-java/71508449#71508449)
 - [Is there an option to directly delete rows in ORC file in pyspark or databricks](https://stackoverflow.com/questions/71475195/is-there-an-option-to-directly-delete-rows-in-orc-file-in-pyspark-or-databricks)
-- [Qpid client connectionFactory to connect to ArtemisMQ cluster](https://stackoverflow.com/questions/71210963/qpid-client-connectionfactory-to-connect-to-artemismq-cluster)
-- [Databricks Delta table column with double data type to store long value](https://stackoverflow.com/questions/71152754/databricks-delta-table-column-with-double-data-type-to-store-long-value)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
