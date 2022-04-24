@@ -22,6 +22,8 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Databricks to read from ORC file and upsert data to Delta table using PySpark readStream and writeStream](https://thirumurthi.hashnode.dev/databricks-to-read-from-orc-file-and-upsert-data-to-delta-table-using-pyspark-readstream-and-writestream-cl22wl27b0ae2wnnv4uz42kp6)
+- [Databricks fetch data from Delta table and create ORC using pyspark readStream and writeStream](https://thirumurthi.hashnode.dev/databricks-fetch-data-from-delta-table-and-create-orc-using-pyspark-readstream-and-writestream-cl22udy8r0a7wwnnv8hnya2kh)
 - [Generate PDF report using Apache FOP and XLS](https://thirumurthi.hashnode.dev/generate-pdf-report-using-apache-fop-and-xls-cl19w987f009mzunvhnfv1pc8)
 - [Monitoring Apache Artemis JMX service with ELK stack](https://thirumurthi.hashnode.dev/monitoring-apache-artemis-jmx-service-with-elk-stack-cl0pxq9w101smyunv9ztp15g4)
 - [Using JMX and its use in Apache Cassandra and Apache Artemis](https://thirumurthi.hashnode.dev/using-jmx-and-its-use-in-apache-cassandra-and-apache-artemis-cl0ngzrjr00b12onv8ugb45ht)
@@ -30,8 +32,6 @@
 - [Index and Search PDF content using Lucene and PDFBox libraries](https://thirumurthi.hashnode.dev/index-and-search-pdf-content-using-lucene-and-pdfbox-libraries-cl0ebh0qu05ooo5nvgkdh0kq7)
 - [Apache Lucene Core Terminology](https://thirumurthi.hashnode.dev/apache-lucene-core-terminology-cl0e8b8wp05emm9nv12sd1oqo)
 - [Working with Dataframes (PySpark) in Databricks](https://thirumurthi.hashnode.dev/working-with-dataframes-pyspark-in-databricks-cl04xx6y00802udnvh1nl3zux)
-- [Accessing REST End-point using Spring WebClient](https://thirumurthi.hashnode.dev/accessing-rest-end-point-using-spring-webclient-ckzns1lyo0azoo2s1c97gc8iy)
-- [Accessing REST End-point using Java HTTPClient](https://thirumurthi.hashnode.dev/accessing-rest-end-point-using-java-httpclient-ckzm2vl7u038cqjs1733eavfv)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
