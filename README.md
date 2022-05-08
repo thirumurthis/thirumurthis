@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Apache Common CLI - handling arguments in java](https://thirumurthi.hashnode.dev/apache-common-cli-handling-arguments-in-java-cl2vghe3m02a1t4nvfdus2xce)
 - [Databricks to read from ORC file and upsert data to Delta table using PySpark readStream and writeStream](https://thirumurthi.hashnode.dev/databricks-to-read-from-orc-file-and-upsert-data-to-delta-table-using-pyspark-readstream-and-writestream-cl22wl27b0ae2wnnv4uz42kp6)
 - [Databricks fetch data from Delta table and create ORC using pyspark readStream and writeStream](https://thirumurthi.hashnode.dev/databricks-fetch-data-from-delta-table-and-create-orc-using-pyspark-readstream-and-writestream-cl22udy8r0a7wwnnv8hnya2kh)
 - [Generate PDF report using Apache FOP and XLS](https://thirumurthi.hashnode.dev/generate-pdf-report-using-apache-fop-and-xls-cl19w987f009mzunvhnfv1pc8)
@@ -31,7 +32,6 @@
 - [Ship SpringBoot App logs directly to Elastic Search](https://thirumurthi.hashnode.dev/ship-springboot-app-logs-directly-to-elastic-search-cl0ewci6q000u3bnvftmi67uj)
 - [Index and Search PDF content using Lucene and PDFBox libraries](https://thirumurthi.hashnode.dev/index-and-search-pdf-content-using-lucene-and-pdfbox-libraries-cl0ebh0qu05ooo5nvgkdh0kq7)
 - [Apache Lucene Core Terminology](https://thirumurthi.hashnode.dev/apache-lucene-core-terminology-cl0e8b8wp05emm9nv12sd1oqo)
-- [Working with Dataframes (PySpark) in Databricks](https://thirumurthi.hashnode.dev/working-with-dataframes-pyspark-in-databricks-cl04xx6y00802udnvh1nl3zux)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
