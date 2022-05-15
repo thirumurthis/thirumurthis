@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [Answer by Tim for Spring transaction closes connection once commit for Propagation type REQUIRED_NEW](https://stackoverflow.com/questions/72090686/spring-transaction-closes-connection-once-commit-for-propagation-type-required-n/72191121#72191121)
 - [Spring transaction closes connection once commit for Propagation type REQUIRED_NEW](https://stackoverflow.com/questions/72090686/spring-transaction-closes-connection-once-commit-for-propagation-type-required-n)
 - [Answer by Tim for searching for a keyword in all the pods/replicas of a kuberntes deployment](https://stackoverflow.com/questions/71913944/searching-for-a-keyword-in-all-the-pods-replicas-of-a-kuberntes-deployment/71914311#71914311)
 - [Answer by Tim for databricks cli in git bash on windows returns error message invalid parameter](https://stackoverflow.com/questions/71580686/databricks-cli-in-git-bash-on-windows-returns-error-message-invalid-parameter/71580864#71580864)
 - [databricks cli in git bash on windows returns error message invalid parameter](https://stackoverflow.com/questions/71580686/databricks-cli-in-git-bash-on-windows-returns-error-message-invalid-parameter)
-- [Answer by Tim for JQ — Return first element that satisfies a predicate](https://stackoverflow.com/questions/71528675/jq-return-first-element-that-satisfies-a-predicate/71529306#71529306)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
