@@ -22,6 +22,9 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Distributed locking using Apache ZooKeeper and Apache Curator](https://thirumurthi.hashnode.dev/distributed-locking-using-apache-zookeeper-and-apache-curator-cl496tgyj0221r3nv7bfxd9j9)
+- [Apache Zookeeper - creating Server Ensemble Using Docker Desktop](https://thirumurthi.hashnode.dev/apache-zookeeper-creating-server-ensemble-using-docker-desktop-cl48m173l00ltq2nv6z30ghb7)
+- [Distributed lock using Apache ZooKeeper](https://thirumurthi.hashnode.dev/distributed-lock-using-apache-zookeeper-cl45xsz8x00flxonva8cr98df)
 - [Apache Common CLI - handling arguments in java](https://thirumurthi.hashnode.dev/apache-common-cli-handling-arguments-in-java-cl2vghe3m02a1t4nvfdus2xce)
 - [Databricks to read from ORC file and upsert data to Delta table using PySpark readStream and writeStream](https://thirumurthi.hashnode.dev/databricks-to-read-from-orc-file-and-upsert-data-to-delta-table-using-pyspark-readstream-and-writestream-cl22wl27b0ae2wnnv4uz42kp6)
 - [Databricks fetch data from Delta table and create ORC using pyspark readStream and writeStream](https://thirumurthi.hashnode.dev/databricks-fetch-data-from-delta-table-and-create-orc-using-pyspark-readstream-and-writestream-cl22udy8r0a7wwnnv8hnya2kh)
@@ -29,9 +32,6 @@
 - [Monitoring Apache Artemis JMX service with ELK stack](https://thirumurthi.hashnode.dev/monitoring-apache-artemis-jmx-service-with-elk-stack-cl0pxq9w101smyunv9ztp15g4)
 - [Using JMX and its use in Apache Cassandra and Apache Artemis](https://thirumurthi.hashnode.dev/using-jmx-and-its-use-in-apache-cassandra-and-apache-artemis-cl0ngzrjr00b12onv8ugb45ht)
 - [Simple approach to learn Data Structures in structured way](https://thirumurthi.hashnode.dev/simple-approach-to-learn-data-structures-in-structured-way-cl0lxklcr055ltbnv6m1m4zkm)
-- [Ship SpringBoot App logs directly to Elastic Search](https://thirumurthi.hashnode.dev/ship-springboot-app-logs-directly-to-elastic-search-cl0ewci6q000u3bnvftmi67uj)
-- [Index and Search PDF content using Lucene and PDFBox libraries](https://thirumurthi.hashnode.dev/index-and-search-pdf-content-using-lucene-and-pdfbox-libraries-cl0ebh0qu05ooo5nvgkdh0kq7)
-- [Apache Lucene Core Terminology](https://thirumurthi.hashnode.dev/apache-lucene-core-terminology-cl0e8b8wp05emm9nv12sd1oqo)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
