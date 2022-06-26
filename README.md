@@ -22,6 +22,8 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Running Apache ArtemisMq in Docker Desktop](https://thirumurthi.hashnode.dev/running-apache-artemismq-in-docker-desktop-cl4tcfcrs0a9p8unv93jqh974)
+- [EIP pattern implementation using Apache Camel](https://thirumurthi.hashnode.dev/eip-pattern-implementation-using-apache-camel-cl4nsim60035lwfnvdkcq2734)
 - [Distributed locking using Apache ZooKeeper and Apache Curator](https://thirumurthi.hashnode.dev/distributed-locking-using-apache-zookeeper-and-apache-curator-cl496tgyj0221r3nv7bfxd9j9)
 - [Apache Zookeeper - creating Server Ensemble Using Docker Desktop](https://thirumurthi.hashnode.dev/apache-zookeeper-creating-server-ensemble-using-docker-desktop-cl48m173l00ltq2nv6z30ghb7)
 - [Distributed lock using Apache ZooKeeper](https://thirumurthi.hashnode.dev/distributed-lock-using-apache-zookeeper-cl45xsz8x00flxonva8cr98df)
@@ -30,8 +32,6 @@
 - [Databricks fetch data from Delta table and create ORC using pyspark readStream and writeStream](https://thirumurthi.hashnode.dev/databricks-fetch-data-from-delta-table-and-create-orc-using-pyspark-readstream-and-writestream-cl22udy8r0a7wwnnv8hnya2kh)
 - [Generate PDF report using Apache FOP and XLS](https://thirumurthi.hashnode.dev/generate-pdf-report-using-apache-fop-and-xls-cl19w987f009mzunvhnfv1pc8)
 - [Monitoring Apache Artemis JMX service with ELK stack](https://thirumurthi.hashnode.dev/monitoring-apache-artemis-jmx-service-with-elk-stack-cl0pxq9w101smyunv9ztp15g4)
-- [Using JMX and its use in Apache Cassandra and Apache Artemis](https://thirumurthi.hashnode.dev/using-jmx-and-its-use-in-apache-cassandra-and-apache-artemis-cl0ngzrjr00b12onv8ugb45ht)
-- [Simple approach to learn Data Structures in structured way](https://thirumurthi.hashnode.dev/simple-approach-to-learn-data-structures-in-structured-way-cl0lxklcr055ltbnv6m1m4zkm)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
