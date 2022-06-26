@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
-- [ActiveMQ Artemis not displaying the web console when run in Docker](https://stackoverflow.com/questions/72672565/activemq-artemis-not-displaying-the-web-console-when-run-in-docker)
-- [Answer by Tim for Apache camel to use the classic xml configuration directly in camel-main to run in standalone](https://stackoverflow.com/questions/72655050/apache-camel-to-use-the-classic-xml-configuration-directly-in-camel-main-to-run/72666538#72666538)
-- [Answer by Tim for Check if blob exists in Azure](https://stackoverflow.com/questions/37297646/check-if-blob-exists-in-azure/72664669#72664669)
-- [Deleting leased blob item using Azure CloudBlockBlob java client](https://stackoverflow.com/questions/72663260/deleting-leased-blob-item-using-azure-cloudblockblob-java-client)
-- [Apache camel to use the classic xml configuration directly in camel-main to run in standalone](https://stackoverflow.com/questions/72655050/apache-camel-to-use-the-classic-xml-configuration-directly-in-camel-main-to-run)
+- [Answer by Tim for ActiveMQ Artemis not displaying the web console when run in Docker](https://stackoverflow.com/questions/72672565/activemq-artemis-not-displaying-the-web-console-when-run-in-docker/72750892#72750892)
+- [Azure Databricks pyspark readstream reads non orc files from the mounted ADLS Gen2 input path](https://stackoverflow.com/questions/72710419/azure-databricks-pyspark-readstream-reads-non-orc-files-from-the-mounted-adls-ge)
+- [Answer by Tim for camel-jaxb not able to unmarshall the xml when defined using spring xml dsl](https://stackoverflow.com/questions/72681775/camel-jaxb-not-able-to-unmarshall-the-xml-when-defined-using-spring-xml-dsl/72694438#72694438)
+- [camel-jaxb not able to unmarshall the xml when defined using spring xml dsl](https://stackoverflow.com/questions/72681775/camel-jaxb-not-able-to-unmarshall-the-xml-when-defined-using-spring-xml-dsl)
+- [Configure Apache Qpid JMS &lpar;jakarta.jms&rpar; connectionfactory in Apache Camel XML DSL in AMQP component](https://stackoverflow.com/questions/72678266/configure-apache-qpid-jms-jakarta-jms-connectionfactory-in-apache-camel-xml-ds)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
