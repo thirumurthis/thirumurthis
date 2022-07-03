@@ -22,6 +22,8 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Use of FakeSMTP library to validate mail functionalities in local](https://thirumurthi.hashnode.dev/use-of-fakesmtp-library-to-validate-mail-functionalities-in-local-cl54ia6pr0cg8conv1kla65ec)
+- [Using PostgreSql TestContainer in SpringBoot Testing](https://thirumurthi.hashnode.dev/using-postgresql-testcontainer-in-springboot-testing-cl4vmogts0gzo9vnvf8p4eago)
 - [Running Apache ArtemisMq in Docker Desktop](https://thirumurthi.hashnode.dev/running-apache-artemismq-in-docker-desktop-cl4tcfcrs0a9p8unv93jqh974)
 - [EIP pattern implementation using Apache Camel](https://thirumurthi.hashnode.dev/eip-pattern-implementation-using-apache-camel-cl4nsim60035lwfnvdkcq2734)
 - [Distributed locking using Apache ZooKeeper and Apache Curator](https://thirumurthi.hashnode.dev/distributed-locking-using-apache-zookeeper-and-apache-curator-cl496tgyj0221r3nv7bfxd9j9)
@@ -30,8 +32,6 @@
 - [Apache Common CLI - handling arguments in java](https://thirumurthi.hashnode.dev/apache-common-cli-handling-arguments-in-java-cl2vghe3m02a1t4nvfdus2xce)
 - [Databricks to read from ORC file and upsert data to Delta table using PySpark readStream and writeStream](https://thirumurthi.hashnode.dev/databricks-to-read-from-orc-file-and-upsert-data-to-delta-table-using-pyspark-readstream-and-writestream-cl22wl27b0ae2wnnv4uz42kp6)
 - [Databricks fetch data from Delta table and create ORC using pyspark readStream and writeStream](https://thirumurthi.hashnode.dev/databricks-fetch-data-from-delta-table-and-create-orc-using-pyspark-readstream-and-writestream-cl22udy8r0a7wwnnv8hnya2kh)
-- [Generate PDF report using Apache FOP and XLS](https://thirumurthi.hashnode.dev/generate-pdf-report-using-apache-fop-and-xls-cl19w987f009mzunvhnfv1pc8)
-- [Monitoring Apache Artemis JMX service with ELK stack](https://thirumurthi.hashnode.dev/monitoring-apache-artemis-jmx-service-with-elk-stack-cl0pxq9w101smyunv9ztp15g4)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
