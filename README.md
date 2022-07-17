@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Install Linkerd Service Mesh in RancherDesktop Cluster](https://thirumurthi.hashnode.dev/install-linkerd-service-mesh-in-rancherdesktop-cluster-cl5o2d1qp01athsnvdrdffyve)
 - [Build Kubernetes cluster in Docker Desktop with k3d](https://thirumurthi.hashnode.dev/build-kubernetes-cluster-in-docker-desktop-with-k3d-cl5cx213l01jhvinv40s310cz)
 - [RXJS environment using webpack-dev server](https://thirumurthi.hashnode.dev/rxjs-environment-using-webpack-dev-server-cl57cslrz0g58ownvhmayb0r8)
 - [Use of FakeSMTP library to validate mail functionalities in local](https://thirumurthi.hashnode.dev/use-of-fakesmtp-library-to-validate-mail-functionalities-in-local-cl54ia6pr0cg8conv1kla65ec)
@@ -31,7 +32,6 @@
 - [Distributed locking using Apache ZooKeeper and Apache Curator](https://thirumurthi.hashnode.dev/distributed-locking-using-apache-zookeeper-and-apache-curator-cl496tgyj0221r3nv7bfxd9j9)
 - [Apache Zookeeper - creating Server Ensemble Using Docker Desktop](https://thirumurthi.hashnode.dev/apache-zookeeper-creating-server-ensemble-using-docker-desktop-cl48m173l00ltq2nv6z30ghb7)
 - [Distributed lock using Apache ZooKeeper](https://thirumurthi.hashnode.dev/distributed-lock-using-apache-zookeeper-cl45xsz8x00flxonva8cr98df)
-- [Apache Common CLI - handling arguments in java](https://thirumurthi.hashnode.dev/apache-common-cli-handling-arguments-in-java-cl2vghe3m02a1t4nvfdus2xce)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
