@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
-- [Answer by Tim for Databricks CLI to list or fetch the job run history of status](https://stackoverflow.com/questions/73054693/databricks-cli-to-list-or-fetch-the-job-run-history-of-status/73054947#73054947)
-- [Databricks CLI to list or fetch the job run history of status](https://stackoverflow.com/questions/73054693/databricks-cli-to-list-or-fetch-the-job-run-history-of-status)
-- [Azure pythonsdk to fetch list of blobs in ADLS Gen2](https://stackoverflow.com/questions/72989756/azure-pythonsdk-to-fetch-list-of-blobs-in-adls-gen2)
-- [Migrate Wiki under Gitlab to ADO Git Wiki Repo](https://stackoverflow.com/questions/72878541/migrate-wiki-under-gitlab-to-ado-git-wiki-repo)
-- [Answer by Tim for Migrate Wiki under Gitlab to ADO Git Wiki Repo](https://stackoverflow.com/questions/72878541/migrate-wiki-under-gitlab-to-ado-git-wiki-repo/72878542#72878542)
+- [Answer by Tim for Databricks python notebook to execute %sql commandlet based on condition](https://stackoverflow.com/questions/73255533/databricks-python-notebook-to-execute-sql-commandlet-based-on-condition/73260658#73260658)
+- [Databricks python notebook to execute %sql commandlet based on condition](https://stackoverflow.com/questions/73255533/databricks-python-notebook-to-execute-sql-commandlet-based-on-condition)
+- [Managing multiple images in ACR](https://stackoverflow.com/questions/73250913/managing-multiple-images-in-acr)
+- [Answer by Tim for Databricks pyspark readstream to read data from azure blob storage which is written in partitioned structure](https://stackoverflow.com/questions/73189786/databricks-pyspark-readstream-to-read-data-from-azure-blob-storage-which-is-writ/73202440#73202440)
+- [Databricks pyspark readstream to read data from azure blob storage which is written in partitioned structure](https://stackoverflow.com/questions/73189786/databricks-pyspark-readstream-to-read-data-from-azure-blob-storage-which-is-writ)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
