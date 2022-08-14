@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [Spring boot Swagger annotation to link another end-point in swagger ui api doc](https://stackoverflow.com/questions/73286721/spring-boot-swagger-annotation-to-link-another-end-point-in-swagger-ui-api-doc)
 - [Answer by Tim for Databricks python notebook to execute %sql commandlet based on condition](https://stackoverflow.com/questions/73255533/databricks-python-notebook-to-execute-sql-commandlet-based-on-condition/73260658#73260658)
 - [Databricks python notebook to execute %sql commandlet based on condition](https://stackoverflow.com/questions/73255533/databricks-python-notebook-to-execute-sql-commandlet-based-on-condition)
 - [Managing multiple images in ACR](https://stackoverflow.com/questions/73250913/managing-multiple-images-in-acr)
 - [Answer by Tim for Databricks pyspark readstream to read data from azure blob storage which is written in partitioned structure](https://stackoverflow.com/questions/73189786/databricks-pyspark-readstream-to-read-data-from-azure-blob-storage-which-is-writ/73202440#73202440)
-- [Databricks pyspark readstream to read data from azure blob storage which is written in partitioned structure](https://stackoverflow.com/questions/73189786/databricks-pyspark-readstream-to-read-data-from-azure-blob-storage-which-is-writ)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
