@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Build websocket app with Quarkus framework](https://thirumurthi.hashnode.dev/build-websocket-app-with-quarkus-framework-cl7jyrend0duf4xnveyzth943)
 - [Connecting to WebSocket endpoint created using websocketd](https://thirumurthi.hashnode.dev/connecting-to-websocket-endpoint-created-using-websocketd-cl71kxu1301bdp0nv0fzc7yep)
 - [Web Scraping using Python with memcache deployed in Oracle Cloud](https://thirumurthi.hashnode.dev/web-scraping-using-python-with-memcache-deployed-in-oracle-cloud-cl6msqscv040lj2nvgd24f667)
 - [Install Linkerd Service Mesh in RancherDesktop Cluster](https://thirumurthi.hashnode.dev/install-linkerd-service-mesh-in-rancherdesktop-cluster-cl5o2d1qp01athsnvdrdffyve)
@@ -31,7 +32,6 @@
 - [Using PostgreSql TestContainer in SpringBoot Testing](https://thirumurthi.hashnode.dev/using-postgresql-testcontainer-in-springboot-testing-cl4vmogts0gzo9vnvf8p4eago)
 - [Running Apache ArtemisMq in Docker Desktop](https://thirumurthi.hashnode.dev/running-apache-artemismq-in-docker-desktop-cl4tcfcrs0a9p8unv93jqh974)
 - [EIP pattern implementation using Apache Camel](https://thirumurthi.hashnode.dev/eip-pattern-implementation-using-apache-camel-cl4nsim60035lwfnvdkcq2734)
-- [Distributed locking using Apache ZooKeeper and Apache Curator](https://thirumurthi.hashnode.dev/distributed-locking-using-apache-zookeeper-and-apache-curator-cl496tgyj0221r3nv7bfxd9j9)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
