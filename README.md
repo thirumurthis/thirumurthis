@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [Answer by Tim for Connect to Kafka running in WSL2 Ubuntu](https://stackoverflow.com/questions/71525350/connect-to-kafka-running-in-wsl2-ubuntu/73681837#73681837)
 - [Answer by Tim for Spring boot Swagger annotation to link another end-point in swagger ui api doc](https://stackoverflow.com/questions/73286721/spring-boot-swagger-annotation-to-link-another-end-point-in-swagger-ui-api-doc/73380586#73380586)
 - [Spring boot Swagger annotation to link another end-point in swagger ui api doc](https://stackoverflow.com/questions/73286721/spring-boot-swagger-annotation-to-link-another-end-point-in-swagger-ui-api-doc)
 - [Answer by Tim for Databricks python notebook to execute %sql commandlet based on condition](https://stackoverflow.com/questions/73255533/databricks-python-notebook-to-execute-sql-commandlet-based-on-condition/73260658#73260658)
 - [Databricks python notebook to execute %sql commandlet based on condition](https://stackoverflow.com/questions/73255533/databricks-python-notebook-to-execute-sql-commandlet-based-on-condition)
-- [Managing multiple images in ACR](https://stackoverflow.com/questions/73250913/managing-multiple-images-in-acr)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
