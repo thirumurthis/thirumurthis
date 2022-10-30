@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Validate input JSON payload with SpringBoot AOP](https://thirumurthi.hashnode.dev/validate-input-json-payload-with-springboot-aop-cl9lkts3g000209l7ek1ae6x7)
 - [Parse part of JSON string using Java](https://thirumurthi.hashnode.dev/parse-part-of-json-string-using-java-cl90liz5w000c09ld3dc2bsvw)
 - [Create Git Bash profile in Windows Terminal and enable kubectl auto complete](https://thirumurthi.hashnode.dev/create-git-bash-profile-in-windows-terminal-and-enable-kubectl-auto-complete-cl8gxv62a05rqqgnv79g9ayny)
 - [Build websocket app with Quarkus framework](https://thirumurthi.hashnode.dev/build-websocket-app-with-quarkus-framework-cl7jyrend0duf4xnveyzth943)
@@ -31,7 +32,6 @@
 - [Build Kubernetes cluster in Docker Desktop with k3d](https://thirumurthi.hashnode.dev/build-kubernetes-cluster-in-docker-desktop-with-k3d-cl5cx213l01jhvinv40s310cz)
 - [RXJS environment using webpack-dev server](https://thirumurthi.hashnode.dev/rxjs-environment-using-webpack-dev-server-cl57cslrz0g58ownvhmayb0r8)
 - [Use of FakeSMTP library to validate mail functionalities in local](https://thirumurthi.hashnode.dev/use-of-fakesmtp-library-to-validate-mail-functionalities-in-local-cl54ia6pr0cg8conv1kla65ec)
-- [Using PostgreSql TestContainer in SpringBoot Testing](https://thirumurthi.hashnode.dev/using-postgresql-testcontainer-in-springboot-testing-cl4vmogts0gzo9vnvf8p4eago)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
