@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Integration test Kafka using Awaitality library](https://thirumurthi.hashnode.dev/integration-test-kafka-using-awaitality-library-cl9vxivhm000009ml27jea7m4)
 - [Validate input JSON payload with SpringBoot AOP](https://thirumurthi.hashnode.dev/validate-input-json-payload-with-springboot-aop-cl9lkts3g000209l7ek1ae6x7)
 - [Parse part of JSON string using Java](https://thirumurthi.hashnode.dev/parse-part-of-json-string-using-java-cl90liz5w000c09ld3dc2bsvw)
 - [Create Git Bash profile in Windows Terminal and enable kubectl auto complete](https://thirumurthi.hashnode.dev/create-git-bash-profile-in-windows-terminal-and-enable-kubectl-auto-complete-cl8gxv62a05rqqgnv79g9ayny)
@@ -31,7 +32,6 @@
 - [Install Linkerd Service Mesh in RancherDesktop Cluster](https://thirumurthi.hashnode.dev/install-linkerd-service-mesh-in-rancherdesktop-cluster-cl5o2d1qp01athsnvdrdffyve)
 - [Build Kubernetes cluster in Docker Desktop with k3d](https://thirumurthi.hashnode.dev/build-kubernetes-cluster-in-docker-desktop-with-k3d-cl5cx213l01jhvinv40s310cz)
 - [RXJS environment using webpack-dev server](https://thirumurthi.hashnode.dev/rxjs-environment-using-webpack-dev-server-cl57cslrz0g58ownvhmayb0r8)
-- [Use of FakeSMTP library to validate mail functionalities in local](https://thirumurthi.hashnode.dev/use-of-fakesmtp-library-to-validate-mail-functionalities-in-local-cl54ia6pr0cg8conv1kla65ec)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
