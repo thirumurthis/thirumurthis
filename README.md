@@ -22,6 +22,8 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Reactive App built with SpringBoot and Apache Camel to stream data using Apache Kafka](https://thirumurthi.hashnode.dev/reactive-app-built-with-springboot-and-apache-camel-to-stream-data-using-apache-kafka-cladl9za5000608mf7y3o2md2)
+- [Deploy KIND cluster in Docker Desktop and Access the container from Windows host](https://thirumurthi.hashnode.dev/deploy-kind-cluster-in-docker-desktop-and-access-the-container-from-windows-host-cla66mytc000408l33qdmgvxd)
 - [Integration test Kafka using Awaitality library](https://thirumurthi.hashnode.dev/integration-test-kafka-using-awaitality-library-cl9vxivhm000009ml27jea7m4)
 - [Validate input JSON payload with SpringBoot AOP](https://thirumurthi.hashnode.dev/validate-input-json-payload-with-springboot-aop-cl9lkts3g000209l7ek1ae6x7)
 - [Parse part of JSON string using Java](https://thirumurthi.hashnode.dev/parse-part-of-json-string-using-java-cl90liz5w000c09ld3dc2bsvw)
@@ -30,8 +32,6 @@
 - [Connecting to WebSocket endpoint created using websocketd](https://thirumurthi.hashnode.dev/connecting-to-websocket-endpoint-created-using-websocketd-cl71kxu1301bdp0nv0fzc7yep)
 - [Web Scraping using Python with memcache deployed in Oracle Cloud](https://thirumurthi.hashnode.dev/web-scraping-using-python-with-memcache-deployed-in-oracle-cloud-cl6msqscv040lj2nvgd24f667)
 - [Install Linkerd Service Mesh in RancherDesktop Cluster](https://thirumurthi.hashnode.dev/install-linkerd-service-mesh-in-rancherdesktop-cluster-cl5o2d1qp01athsnvdrdffyve)
-- [Build Kubernetes cluster in Docker Desktop with k3d](https://thirumurthi.hashnode.dev/build-kubernetes-cluster-in-docker-desktop-with-k3d-cl5cx213l01jhvinv40s310cz)
-- [RXJS environment using webpack-dev server](https://thirumurthi.hashnode.dev/rxjs-environment-using-webpack-dev-server-cl57cslrz0g58ownvhmayb0r8)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
