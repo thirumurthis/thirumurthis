@@ -22,6 +22,8 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Build Custom Kustomize Plugin With Containerized KRM function](https://thirumurthi.hashnode.dev/build-custom-kustomize-plugin-with-containerized-krm-function-clayj4v1n000208l47xilhn1p)
+- [Manage Kubernetes Manifest with Kustomize](https://thirumurthi.hashnode.dev/manage-kubernetes-manifest-with-kustomize-claxoci8k000q08mf7g0tc4dc)
 - [Reactive App built with SpringBoot and Apache Camel to stream data using Apache Kafka](https://thirumurthi.hashnode.dev/reactive-app-built-with-springboot-and-apache-camel-to-stream-data-using-apache-kafka-cladl9za5000608mf7y3o2md2)
 - [Deploy KIND cluster in Docker Desktop and Access the container from Windows host](https://thirumurthi.hashnode.dev/deploy-kind-cluster-in-docker-desktop-and-access-the-container-from-windows-host-cla66mytc000408l33qdmgvxd)
 - [Integration test Kafka using Awaitality library](https://thirumurthi.hashnode.dev/integration-test-kafka-using-awaitality-library-cl9vxivhm000009ml27jea7m4)
@@ -30,8 +32,6 @@
 - [Create Git Bash profile in Windows Terminal and enable kubectl auto complete](https://thirumurthi.hashnode.dev/create-git-bash-profile-in-windows-terminal-and-enable-kubectl-auto-complete-cl8gxv62a05rqqgnv79g9ayny)
 - [Build websocket app with Quarkus framework](https://thirumurthi.hashnode.dev/build-websocket-app-with-quarkus-framework-cl7jyrend0duf4xnveyzth943)
 - [Connecting to WebSocket endpoint created using websocketd](https://thirumurthi.hashnode.dev/connecting-to-websocket-endpoint-created-using-websocketd-cl71kxu1301bdp0nv0fzc7yep)
-- [Web Scraping using Python with memcache deployed in Oracle Cloud](https://thirumurthi.hashnode.dev/web-scraping-using-python-with-memcache-deployed-in-oracle-cloud-cl6msqscv040lj2nvgd24f667)
-- [Install Linkerd Service Mesh in RancherDesktop Cluster](https://thirumurthi.hashnode.dev/install-linkerd-service-mesh-in-rancherdesktop-cluster-cl5o2d1qp01athsnvdrdffyve)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
