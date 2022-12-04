@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Deploy Strimzi Apache Kafka Operator in KIND cluster with KRaft mode](https://thirumurthi.hashnode.dev/deploy-strimzi-apache-kafka-operator-in-kind-cluster-with-kraft-mode-clb7ntrbg000008jlgu6mbf0a)
 - [Build Custom Kustomize Plugin With Containerized KRM function](https://thirumurthi.hashnode.dev/build-custom-kustomize-plugin-with-containerized-krm-function-clayj4v1n000208l47xilhn1p)
 - [Manage Kubernetes Manifest with Kustomize](https://thirumurthi.hashnode.dev/manage-kubernetes-manifest-with-kustomize-claxoci8k000q08mf7g0tc4dc)
 - [Reactive App built with SpringBoot and Apache Camel to stream data using Apache Kafka](https://thirumurthi.hashnode.dev/reactive-app-built-with-springboot-and-apache-camel-to-stream-data-using-apache-kafka-cladl9za5000608mf7y3o2md2)
@@ -31,7 +32,6 @@
 - [Parse part of JSON string using Java](https://thirumurthi.hashnode.dev/parse-part-of-json-string-using-java-cl90liz5w000c09ld3dc2bsvw)
 - [Create Git Bash profile in Windows Terminal and enable kubectl auto complete](https://thirumurthi.hashnode.dev/create-git-bash-profile-in-windows-terminal-and-enable-kubectl-auto-complete-cl8gxv62a05rqqgnv79g9ayny)
 - [Build websocket app with Quarkus framework](https://thirumurthi.hashnode.dev/build-websocket-app-with-quarkus-framework-cl7jyrend0duf4xnveyzth943)
-- [Connecting to WebSocket endpoint created using websocketd](https://thirumurthi.hashnode.dev/connecting-to-websocket-endpoint-created-using-websocketd-cl71kxu1301bdp0nv0fzc7yep)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
