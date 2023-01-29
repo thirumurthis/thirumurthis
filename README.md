@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [enable ssl logs in spring boot application from applicaiton.properties](https://stackoverflow.com/questions/75217457/enable-ssl-logs-in-spring-boot-application-from-applicaiton-properties)
 - [Answer by Tim for Issue in sending traces to the Jaeger all-in-one operator instance from host machine](https://stackoverflow.com/questions/75062634/issue-in-sending-traces-to-the-jaeger-all-in-one-operator-instance-from-host-mac/75077730#75077730)
 - [Issue in sending traces to the Jaeger all-in-one operator instance from host machine](https://stackoverflow.com/questions/75062634/issue-in-sending-traces-to-the-jaeger-all-in-one-operator-instance-from-host-mac)
 - [Answer by Tim for Can kustomize built-in patchtransformers take yaml file instead of map of values](https://stackoverflow.com/questions/74496671/can-kustomize-built-in-patchtransformers-take-yaml-file-instead-of-map-of-values/74661170#74661170)
 - [Can kustomize built-in patchtransformers take yaml file instead of map of values](https://stackoverflow.com/questions/74496671/can-kustomize-built-in-patchtransformers-take-yaml-file-instead-of-map-of-values)
-- [Java Lambda sort with object properties throws null pointer exception [duplicate]](https://stackoverflow.com/questions/74143534/java-lambda-sort-with-object-properties-throws-null-pointer-exception)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
