@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Execute Java code like a script using JBang](https://thirumurthi.hashnode.dev/execute-java-code-like-a-script-using-jbang-cldh2vwnz000409l7ghbj8hmj)
 - [Deploy Jaeger instance in KIND cluster using Jaeger operator](https://thirumurthi.hashnode.dev/deploy-jaeger-instance-in-kind-cluster-using-jaeger-operator-clcr9ds1r000008mn39z04m73)
 - [Deploy Strimzi Apache Kafka Operator in KIND cluster with KRaft mode](https://thirumurthi.hashnode.dev/deploy-strimzi-apache-kafka-operator-in-kind-cluster-with-kraft-mode-clb7ntrbg000008jlgu6mbf0a)
 - [Build Custom Kustomize Plugin With Containerized KRM function](https://thirumurthi.hashnode.dev/build-custom-kustomize-plugin-with-containerized-krm-function-clayj4v1n000208l47xilhn1p)
@@ -31,7 +32,6 @@
 - [Integration test Kafka using Awaitality library](https://thirumurthi.hashnode.dev/integration-test-kafka-using-awaitality-library-cl9vxivhm000009ml27jea7m4)
 - [Validate input JSON payload with SpringBoot AOP](https://thirumurthi.hashnode.dev/validate-input-json-payload-with-springboot-aop-cl9lkts3g000209l7ek1ae6x7)
 - [Parse part of JSON string using Java](https://thirumurthi.hashnode.dev/parse-part-of-json-string-using-java-cl90liz5w000c09ld3dc2bsvw)
-- [Create Git Bash profile in Windows Terminal and enable kubectl auto complete](https://thirumurthi.hashnode.dev/create-git-bash-profile-in-windows-terminal-and-enable-kubectl-auto-complete-cl8gxv62a05rqqgnv79g9ayny)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
