@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Run Integration in Apache Camel-K](https://thirumurthi.hashnode.dev/run-integration-in-apache-camel-k-cldwogm2i000508kz34cv2nat)
 - [Execute Java code like a script using JBang](https://thirumurthi.hashnode.dev/execute-java-code-like-a-script-using-jbang-cldh2vwnz000409l7ghbj8hmj)
 - [Deploy Jaeger instance in KIND cluster using Jaeger operator](https://thirumurthi.hashnode.dev/deploy-jaeger-instance-in-kind-cluster-using-jaeger-operator-clcr9ds1r000008mn39z04m73)
 - [Deploy Strimzi Apache Kafka Operator in KIND cluster with KRaft mode](https://thirumurthi.hashnode.dev/deploy-strimzi-apache-kafka-operator-in-kind-cluster-with-kraft-mode-clb7ntrbg000008jlgu6mbf0a)
@@ -31,7 +32,6 @@
 - [Deploy KIND cluster in Docker Desktop and Access the container from Windows host](https://thirumurthi.hashnode.dev/deploy-kind-cluster-in-docker-desktop-and-access-the-container-from-windows-host-cla66mytc000408l33qdmgvxd)
 - [Integration test Kafka using Awaitality library](https://thirumurthi.hashnode.dev/integration-test-kafka-using-awaitality-library-cl9vxivhm000009ml27jea7m4)
 - [Validate input JSON payload with SpringBoot AOP](https://thirumurthi.hashnode.dev/validate-input-json-payload-with-springboot-aop-cl9lkts3g000209l7ek1ae6x7)
-- [Parse part of JSON string using Java](https://thirumurthi.hashnode.dev/parse-part-of-json-string-using-java-cl90liz5w000c09ld3dc2bsvw)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
