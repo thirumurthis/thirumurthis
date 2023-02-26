@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [npm passing credentials to .npmrc file from Environment variables](https://stackoverflow.com/questions/75550113/npm-passing-credentials-to-npmrc-file-from-environment-variables)
 - [Jbang camel app not able to expose jetty component based route](https://stackoverflow.com/questions/75443684/jbang-camel-app-not-able-to-expose-jetty-component-based-route)
 - [Answer by Tim for Spring kafka JsonSerializer to payload with map with null key throws exception](https://stackoverflow.com/questions/75320154/spring-kafka-jsonserializer-to-payload-with-map-with-null-key-throws-exception/75417064#75417064)
 - [Spring kafka JsonSerializer to payload with map with null key throws exception](https://stackoverflow.com/questions/75320154/spring-kafka-jsonserializer-to-payload-with-map-with-null-key-throws-exception)
 - [enable ssl logs in spring boot application from applicaiton.properties](https://stackoverflow.com/questions/75217457/enable-ssl-logs-in-spring-boot-application-from-applicaiton-properties)
-- [Answer by Tim for Issue in sending traces to the Jaeger all-in-one operator instance from host machine](https://stackoverflow.com/questions/75062634/issue-in-sending-traces-to-the-jaeger-all-in-one-operator-instance-from-host-mac/75077730#75077730)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
