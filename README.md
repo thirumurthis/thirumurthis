@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Spring Boot NullKeySerializer - Handle Kafka payload with null keys](https://thirumurthi.hashnode.dev/spring-boot-nullkeyserializer-handle-kafka-payload-with-null-keys-clfq8mv8o000008l6fg8gdqhg)
 - [Run Integration in Apache Camel-K](https://thirumurthi.hashnode.dev/run-integration-in-apache-camel-k-cldwogm2i000508kz34cv2nat)
 - [Execute Java code like a script using JBang](https://thirumurthi.hashnode.dev/execute-java-code-like-a-script-using-jbang-cldh2vwnz000409l7ghbj8hmj)
 - [Deploy Jaeger instance in KIND cluster using Jaeger operator](https://thirumurthi.hashnode.dev/deploy-jaeger-instance-in-kind-cluster-using-jaeger-operator-clcr9ds1r000008mn39z04m73)
@@ -31,7 +32,6 @@
 - [Reactive App built with SpringBoot and Apache Camel to stream data using Apache Kafka](https://thirumurthi.hashnode.dev/reactive-app-built-with-springboot-and-apache-camel-to-stream-data-using-apache-kafka-cladl9za5000608mf7y3o2md2)
 - [Deploy KIND cluster in Docker Desktop and Access the container from Windows host](https://thirumurthi.hashnode.dev/deploy-kind-cluster-in-docker-desktop-and-access-the-container-from-windows-host-cla66mytc000408l33qdmgvxd)
 - [Integration test Kafka using Awaitality library](https://thirumurthi.hashnode.dev/integration-test-kafka-using-awaitality-library-cl9vxivhm000009ml27jea7m4)
-- [Validate input JSON payload with SpringBoot AOP](https://thirumurthi.hashnode.dev/validate-input-json-payload-with-springboot-aop-cl9lkts3g000209l7ek1ae6x7)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
