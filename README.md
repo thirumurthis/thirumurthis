@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
-- [Answer by Tim for Strimzi operator not able to deploy one of Zookeeper pods due to Calio plugin issue](https://stackoverflow.com/questions/75981683/strimzi-operator-not-able-to-deploy-one-of-zookeeper-pods-due-to-calio-plugin-is/75981824#75981824)
-- [Strimzi operator not able to deploy one of Zookeeper pods due to Calio plugin issue [closed]](https://stackoverflow.com/questions/75981683/strimzi-operator-not-able-to-deploy-one-of-zookeeper-pods-due-to-calio-plugin-is)
 - [npm passing credentials to .npmrc file from Environment variables](https://stackoverflow.com/questions/75550113/npm-passing-credentials-to-npmrc-file-from-environment-variables)
 - [Jbang camel app not able to expose jetty component based route](https://stackoverflow.com/questions/75443684/jbang-camel-app-not-able-to-expose-jetty-component-based-route)
 - [Answer by Tim for Spring kafka JsonSerializer to payload with map with null key throws exception](https://stackoverflow.com/questions/75320154/spring-kafka-jsonserializer-to-payload-with-map-with-null-key-throws-exception/75417064#75417064)
+- [Spring kafka JsonSerializer to payload with map with null key throws exception](https://stackoverflow.com/questions/75320154/spring-kafka-jsonserializer-to-payload-with-map-with-null-key-throws-exception)
+- [enable ssl logs in spring boot application from applicaiton.properties](https://stackoverflow.com/questions/75217457/enable-ssl-logs-in-spring-boot-application-from-applicaiton-properties)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
