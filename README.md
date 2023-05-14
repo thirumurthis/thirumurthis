@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [Answer by Tim for Kubernetes Angular deployed in Nginx to access endpoint of app running in same container using ClusterIP service](https://stackoverflow.com/questions/76191881/kubernetes-angular-deployed-in-nginx-to-access-endpoint-of-app-running-in-same-c/76230700#76230700)
+- [Kubernetes Angular deployed in Nginx to access endpoint of app running in same container using ClusterIP service](https://stackoverflow.com/questions/76191881/kubernetes-angular-deployed-in-nginx-to-access-endpoint-of-app-running-in-same-c)
 - [npm passing credentials to .npmrc file from Environment variables](https://stackoverflow.com/questions/75550113/npm-passing-credentials-to-npmrc-file-from-environment-variables)
 - [Jbang camel app not able to expose jetty component based route](https://stackoverflow.com/questions/75443684/jbang-camel-app-not-able-to-expose-jetty-component-based-route)
 - [Answer by Tim for Spring kafka JsonSerializer to payload with map with null key throws exception](https://stackoverflow.com/questions/75320154/spring-kafka-jsonserializer-to-payload-with-map-with-null-key-throws-exception/75417064#75417064)
-- [Spring kafka JsonSerializer to payload with map with null key throws exception](https://stackoverflow.com/questions/75320154/spring-kafka-jsonserializer-to-payload-with-map-with-null-key-throws-exception)
-- [enable ssl logs in spring boot application from applicaiton.properties](https://stackoverflow.com/questions/75217457/enable-ssl-logs-in-spring-boot-application-from-applicaiton-properties)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
