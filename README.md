@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Develop REST API with Javalin and running app using JBang](https://thirumurthi.hashnode.dev/develop-rest-api-with-javalin-and-running-app-using-jbang-cli5k51iy00050ampgpljaw3j)
 - [Spring Boot NullKeySerializer - Handle Kafka payload with null keys](https://thirumurthi.hashnode.dev/spring-boot-nullkeyserializer-handle-kafka-payload-with-null-keys-clfq8mv8o000008l6fg8gdqhg)
 - [Run Integration in Apache Camel-K](https://thirumurthi.hashnode.dev/run-integration-in-apache-camel-k-cldwogm2i000508kz34cv2nat)
 - [Execute Java code like a script using JBang](https://thirumurthi.hashnode.dev/execute-java-code-like-a-script-using-jbang-cldh2vwnz000409l7ghbj8hmj)
@@ -31,7 +32,6 @@
 - [Manage Kubernetes Manifest with Kustomize](https://thirumurthi.hashnode.dev/manage-kubernetes-manifest-with-kustomize-claxoci8k000q08mf7g0tc4dc)
 - [Reactive App built with SpringBoot and Apache Camel to stream data using Apache Kafka](https://thirumurthi.hashnode.dev/reactive-app-built-with-springboot-and-apache-camel-to-stream-data-using-apache-kafka-cladl9za5000608mf7y3o2md2)
 - [Deploy KIND cluster in Docker Desktop and Access the container from Windows host](https://thirumurthi.hashnode.dev/deploy-kind-cluster-in-docker-desktop-and-access-the-container-from-windows-host-cla66mytc000408l33qdmgvxd)
-- [Integration test Kafka using Awaitality library](https://thirumurthi.hashnode.dev/integration-test-kafka-using-awaitality-library-cl9vxivhm000009ml27jea7m4)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
