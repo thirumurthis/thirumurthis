@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Automate repetitive tasks using Shell script in Git Bash](https://thirumurthi.hashnode.dev/automate-repetitive-tasks-using-shell-script-in-git-bash-cliql01jj000b09l7aq5m0c76)
 - [Develop REST API with Javalin and running app using JBang](https://thirumurthi.hashnode.dev/develop-rest-api-with-javalin-and-running-app-using-jbang-cli5k51iy00050ampgpljaw3j)
 - [Spring Boot NullKeySerializer - Handle Kafka payload with null keys](https://thirumurthi.hashnode.dev/spring-boot-nullkeyserializer-handle-kafka-payload-with-null-keys-clfq8mv8o000008l6fg8gdqhg)
 - [Run Integration in Apache Camel-K](https://thirumurthi.hashnode.dev/run-integration-in-apache-camel-k-cldwogm2i000508kz34cv2nat)
@@ -31,7 +32,6 @@
 - [Build Custom Kustomize Plugin With Containerized KRM function](https://thirumurthi.hashnode.dev/build-custom-kustomize-plugin-with-containerized-krm-function-clayj4v1n000208l47xilhn1p)
 - [Manage Kubernetes Manifest with Kustomize](https://thirumurthi.hashnode.dev/manage-kubernetes-manifest-with-kustomize-claxoci8k000q08mf7g0tc4dc)
 - [Reactive App built with SpringBoot and Apache Camel to stream data using Apache Kafka](https://thirumurthi.hashnode.dev/reactive-app-built-with-springboot-and-apache-camel-to-stream-data-using-apache-kafka-cladl9za5000608mf7y3o2md2)
-- [Deploy KIND cluster in Docker Desktop and Access the container from Windows host](https://thirumurthi.hashnode.dev/deploy-kind-cluster-in-docker-desktop-and-access-the-container-from-windows-host-cla66mytc000408l33qdmgvxd)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
