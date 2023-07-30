@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Extend Kubernetes API with operator-sdk](https://thirumurthi.hashnode.dev/extend-kubernetes-api-with-operator-sdk-clko8oeq7000009jh3nb33tmj)
 - [Automate repetitive tasks using Shell script in Git Bash](https://thirumurthi.hashnode.dev/automate-repetitive-tasks-using-shell-script-in-git-bash-cliql01jj000b09l7aq5m0c76)
 - [Develop REST API with Javalin and running app using JBang](https://thirumurthi.hashnode.dev/develop-rest-api-with-javalin-and-running-app-using-jbang-cli5k51iy00050ampgpljaw3j)
 - [Spring Boot NullKeySerializer - Handle Kafka payload with null keys](https://thirumurthi.hashnode.dev/spring-boot-nullkeyserializer-handle-kafka-payload-with-null-keys-clfq8mv8o000008l6fg8gdqhg)
@@ -31,7 +32,6 @@
 - [Deploy Strimzi Apache Kafka Operator in KIND cluster with KRaft mode](https://thirumurthi.hashnode.dev/deploy-strimzi-apache-kafka-operator-in-kind-cluster-with-kraft-mode-clb7ntrbg000008jlgu6mbf0a)
 - [Build Custom Kustomize Plugin With Containerized KRM function](https://thirumurthi.hashnode.dev/build-custom-kustomize-plugin-with-containerized-krm-function-clayj4v1n000208l47xilhn1p)
 - [Manage Kubernetes Manifest with Kustomize](https://thirumurthi.hashnode.dev/manage-kubernetes-manifest-with-kustomize-claxoci8k000q08mf7g0tc4dc)
-- [Reactive App built with SpringBoot and Apache Camel to stream data using Apache Kafka](https://thirumurthi.hashnode.dev/reactive-app-built-with-springboot-and-apache-camel-to-stream-data-using-apache-kafka-cladl9za5000608mf7y3o2md2)
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
