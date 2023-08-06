@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [Angular to pass the baseURL in the environment.ts file at deploy time](https://stackoverflow.com/questions/76830135/angular-to-pass-the-baseurl-in-the-environment-ts-file-at-deploy-time)
 - [Docker Desktop kubernetes cluster reports Authentication required when pulling images](https://stackoverflow.com/questions/76776049/docker-desktop-kubernetes-cluster-reports-authentication-required-when-pulling-i)
 - [Answer by Tim for Kubernetes Angular deployed in Nginx to access endpoint of app running in same container using ClusterIP service](https://stackoverflow.com/questions/76191881/kubernetes-angular-deployed-in-nginx-to-access-endpoint-of-app-running-in-same-c/76230700#76230700)
 - [Kubernetes Angular deployed in Nginx to access endpoint of app running in same container using ClusterIP service](https://stackoverflow.com/questions/76191881/kubernetes-angular-deployed-in-nginx-to-access-endpoint-of-app-running-in-same-c)
 - [npm passing credentials to .npmrc file from Environment variables](https://stackoverflow.com/questions/75550113/npm-passing-credentials-to-npmrc-file-from-environment-variables)
-- [Jbang camel app not able to expose jetty component based route](https://stackoverflow.com/questions/75443684/jbang-camel-app-not-able-to-expose-jetty-component-based-route)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
