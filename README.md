@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [Reactor Kafka with spring-boot 3 not closing a inner flux on flatMap](https://stackoverflow.com/questions/77380586/reactor-kafka-with-spring-boot-3-not-closing-a-inner-flux-on-flatmap)
 - [Container not able to access folder mounted from NFS storage class in kubernetes cluster](https://stackoverflow.com/questions/77267992/container-not-able-to-access-folder-mounted-from-nfs-storage-class-in-kubernetes)
 - [spring.config.import reference to application.yaml in Spring](https://stackoverflow.com/questions/76973412/spring-config-import-reference-to-application-yaml-in-spring)
 - [Angular to pass the baseURL in the environment.ts file at deploy time](https://stackoverflow.com/questions/76830135/angular-to-pass-the-baseurl-in-the-environment-ts-file-at-deploy-time)
 - [Docker Desktop kubernetes cluster reports Authentication required when pulling images](https://stackoverflow.com/questions/76776049/docker-desktop-kubernetes-cluster-reports-authentication-required-when-pulling-i)
-- [Answer by Tim for Kubernetes Angular deployed in Nginx to access endpoint of app running in same container using ClusterIP service](https://stackoverflow.com/questions/76191881/kubernetes-angular-deployed-in-nginx-to-access-endpoint-of-app-running-in-same-c/76230700#76230700)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
