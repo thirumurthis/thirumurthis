@@ -17,6 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'thirumurthi' # Hashnode Username
+          BLOG_URL: 'https://hashnode.com/@thirumurthi'
           COUNT: 20 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_SECRET_BADGE_STORE_CRED }}
