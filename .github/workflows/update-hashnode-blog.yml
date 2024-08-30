@@ -18,8 +18,11 @@ jobs:
       - name: Hashnode Blog Action
         uses: Sachin-chaurasiya/hashnode-blog-action@v0.0.8     
         with:
-          USERNAME: 'thirumurthi' # Hashnode Username
-          BLOG_URL: 'https://hashnode.com/@thirumurthi'
-          COUNT: 20 # MAX Visisble
+          #USERNAME: 'thirumurthi' # Hashnode Username
+          #BLOG_URL: 'https://hashnode.com/@thirumurthi'
+          #COUNT: 20 # MAX Visisble
+          HASHNODE_PUBLICATION_NAME: 'thirumurthi.hashnode.dev'
+          POST_COUNT: 15
+          FORMAT: 'list'
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_SECRET_BADGE_STORE_CRED }}
