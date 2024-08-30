@@ -22,16 +22,22 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- [Operator SDK - Create Controller and CRD to deploy Spring app in K8S cluster](https://thirumurthi.hashnode.dev/operator-sdk-create-controller-and-crd-to-deploy-spring-app-in-k8s-cluster-clli4ehww00090al20gwg4bv5)
-- [Extend Kubernetes API with operator-sdk](https://thirumurthi.hashnode.dev/extend-kubernetes-api-with-operator-sdk-clko8oeq7000009jh3nb33tmj)
-- [Automate repetitive tasks using Shell script in Git Bash](https://thirumurthi.hashnode.dev/automate-repetitive-tasks-using-shell-script-in-git-bash-cliql01jj000b09l7aq5m0c76)
-- [Develop REST API with Javalin and running app using JBang](https://thirumurthi.hashnode.dev/develop-rest-api-with-javalin-and-running-app-using-jbang-cli5k51iy00050ampgpljaw3j)
-- [Spring Boot NullKeySerializer - Handle Kafka payload with null keys](https://thirumurthi.hashnode.dev/spring-boot-nullkeyserializer-handle-kafka-payload-with-null-keys-clfq8mv8o000008l6fg8gdqhg)
-- [Run Integration in Apache Camel-K](https://thirumurthi.hashnode.dev/run-integration-in-apache-camel-k-cldwogm2i000508kz34cv2nat)
-- [Execute Java code like a script using JBang](https://thirumurthi.hashnode.dev/execute-java-code-like-a-script-using-jbang-cldh2vwnz000409l7ghbj8hmj)
-- [Deploy Jaeger instance in KIND cluster using Jaeger operator](https://thirumurthi.hashnode.dev/deploy-jaeger-instance-in-kind-cluster-using-jaeger-operator-clcr9ds1r000008mn39z04m73)
-- [Deploy Strimzi Apache Kafka Operator in KIND cluster with KRaft mode](https://thirumurthi.hashnode.dev/deploy-strimzi-apache-kafka-operator-in-kind-cluster-with-kraft-mode-clb7ntrbg000008jlgu6mbf0a)
-- [Build Custom Kustomize Plugin With Containerized KRM function](https://thirumurthi.hashnode.dev/build-custom-kustomize-plugin-with-containerized-krm-function-clayj4v1n000208l47xilhn1p)
+- [Observability - Jaeger Distributed Tracings](https://thirumurthi.hashnode.dev/observability-jaeger-distributed-tracings)
+- [Access Kubernetes Secrets In SpringBoot Application](https://thirumurthi.hashnode.dev/access-kubernetes-secrets-in-springboot-application)
+- [Apache Apisix and Zitadel OIDC provider](https://thirumurthi.hashnode.dev/apache-apisix-and-zitadel-oidc-provider)
+- [Operator SDK - Create Controller and CRD to deploy Spring app in K8S cluster](https://thirumurthi.hashnode.dev/operator-sdk-create-controller-and-crd-to-deploy-spring-app-in-k8s-cluster)
+- [Extend Kubernetes API with operator-sdk](https://thirumurthi.hashnode.dev/extend-kubernetes-api-with-operator-sdk)
+- [Automate repetitive tasks using Shell script in Git Bash](https://thirumurthi.hashnode.dev/automate-repetitive-tasks-using-shell-script-in-git-bash)
+- [Develop REST API with Javalin and running app using JBang](https://thirumurthi.hashnode.dev/develop-rest-api-with-javalin-and-running-app-using-jbang)
+- [Spring Boot NullKeySerializer - Handle Kafka payload with null keys](https://thirumurthi.hashnode.dev/spring-boot-nullkeyserializer-handle-kafka-payload-with-null-keys)
+- [Run Integration in Apache Camel-K](https://thirumurthi.hashnode.dev/run-integration-in-apache-camel-k)
+- [Execute Java code like a script using JBang](https://thirumurthi.hashnode.dev/execute-java-code-like-a-script-using-jbang)
+- [Deploy Jaeger instance in KIND cluster using Jaeger operator](https://thirumurthi.hashnode.dev/deploy-jaeger-instance-in-kind-cluster-using-jaeger-operator)
+- [Deploy Strimzi Apache Kafka Operator in KIND cluster with KRaft mode](https://thirumurthi.hashnode.dev/deploy-strimzi-apache-kafka-operator-in-kind-cluster-with-kraft-mode)
+- [Build Custom Kustomize Plugin With Containerized KRM function](https://thirumurthi.hashnode.dev/build-custom-kustomize-plugin-with-containerized-krm-function)
+- [Manage Kubernetes Manifest with Kustomize](https://thirumurthi.hashnode.dev/manage-kubernetes-manifest-with-kustomize)
+- [Reactive App built with SpringBoot and Apache Camel to stream data using Apache Kafka](https://thirumurthi.hashnode.dev/reactive-app-built-with-springboot-and-apache-camel-to-stream-data-using-apache-kafka)
+
 <!-- HASHNODE_BLOG:END -->
 
 ### Git Activity 👇
