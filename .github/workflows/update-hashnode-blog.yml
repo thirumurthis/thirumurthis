@@ -13,8 +13,10 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      #- name: "📚  Hashnode Updater"
+      #  uses: "varunsridharan/action-hashnode-blog@main"
+      - name: Hashnode Blog Action
+        uses: Sachin-chaurasiya/hashnode-blog-action@v0.0.8     
         with:
           USERNAME: 'thirumurthi' # Hashnode Username
           BLOG_URL: 'https://hashnode.com/@thirumurthi'
