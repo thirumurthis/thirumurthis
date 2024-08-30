@@ -1,4 +1,4 @@
-name: Latest stack overflow activity
+name: "📚 Stack overflow activity updater"
 on:
   schedule:
     # Runs once a week
