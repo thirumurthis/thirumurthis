@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@2.4.0
         with:
           GH_TOKEN: ${{ secrets.GIT_SECRET_BADGE_STORE_CRED }} # Token in case not using the same repo 
           REPOSITORY: thirumurthis/thirumurthis # optional, By default, it will automatically use the repository who's executing the workflow.
