@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Istio - Kubernetes Gateway API in Kind Cluster](https://thirumurthi.hashnode.dev/istio-kubernetes-gateway-api-in-kind-cluster)
 - [Observability - Jaeger Distributed Tracings](https://thirumurthi.hashnode.dev/observability-jaeger-distributed-tracings)
 - [Access Kubernetes Secrets In SpringBoot Application](https://thirumurthi.hashnode.dev/access-kubernetes-secrets-in-springboot-application)
 - [Apache Apisix and Zitadel OIDC provider](https://thirumurthi.hashnode.dev/apache-apisix-and-zitadel-oidc-provider)
@@ -36,7 +37,6 @@
 - [Deploy Strimzi Apache Kafka Operator in KIND cluster with KRaft mode](https://thirumurthi.hashnode.dev/deploy-strimzi-apache-kafka-operator-in-kind-cluster-with-kraft-mode)
 - [Build Custom Kustomize Plugin With Containerized KRM function](https://thirumurthi.hashnode.dev/build-custom-kustomize-plugin-with-containerized-krm-function)
 - [Manage Kubernetes Manifest with Kustomize](https://thirumurthi.hashnode.dev/manage-kubernetes-manifest-with-kustomize)
-- [Reactive App built with SpringBoot and Apache Camel to stream data using Apache Kafka](https://thirumurthi.hashnode.dev/reactive-app-built-with-springboot-and-apache-camel-to-stream-data-using-apache-kafka)
 
 <!-- HASHNODE_BLOG:END -->
 
