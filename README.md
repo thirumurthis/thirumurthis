@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [How to fetch resourceid of an organization created in Zitadel UI using API or Kubectl command [closed]](https://stackoverflow.com/questions/78983003/how-to-fetch-resourceid-of-an-organization-created-in-zitadel-ui-using-api-or-ku)
 - [Apisix route OIDC plugin to connect to Zitadel odic not accessible within the same cluster](https://stackoverflow.com/questions/78463238/apisix-route-oidc-plugin-to-connect-to-zitadel-odic-not-accessible-within-the-sa)
 - [Answer by Tim for hyper-v to setup centos-9-stream dnf update throws ssl error](https://stackoverflow.com/questions/78050709/hyper-v-to-setup-centos-9-stream-dnf-update-throws-ssl-error/78054221#78054221)
 - [hyper-v to setup centos-9-stream dnf update throws ssl error](https://stackoverflow.com/questions/78050709/hyper-v-to-setup-centos-9-stream-dnf-update-throws-ssl-error)
 - [Reactor Kafka with spring-boot 3 not closing a inner flux on flatMap](https://stackoverflow.com/questions/77380586/reactor-kafka-with-spring-boot-3-not-closing-a-inner-flux-on-flatmap)
-- [Container not able to access folder mounted from NFS storage class in kubernetes cluster](https://stackoverflow.com/questions/77267992/container-not-able-to-access-folder-mounted-from-nfs-storage-class-in-kubernetes)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
