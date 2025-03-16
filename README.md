@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Dagger CI workflow using Java SDK](https://thirumurthi.hashnode.dev/dagger-ci-workflow-using-java-sdk)
 - [Extract data from unstructured data using AI Service with Camel, Langchain4j and JBang](https://thirumurthi.hashnode.dev/extract-data-from-unstructured-data-using-ai-service-with-camel-langchain4j-and-jbang)
 - [Istio - Kubernetes Gateway API in Kind Cluster](https://thirumurthi.hashnode.dev/istio-kubernetes-gateway-api-in-kind-cluster)
 - [Observability - Jaeger Distributed Tracings](https://thirumurthi.hashnode.dev/observability-jaeger-distributed-tracings)
@@ -36,7 +37,6 @@
 - [Execute Java code like a script using JBang](https://thirumurthi.hashnode.dev/execute-java-code-like-a-script-using-jbang)
 - [Deploy Jaeger instance in KIND cluster using Jaeger operator](https://thirumurthi.hashnode.dev/deploy-jaeger-instance-in-kind-cluster-using-jaeger-operator)
 - [Deploy Strimzi Apache Kafka Operator in KIND cluster with KRaft mode](https://thirumurthi.hashnode.dev/deploy-strimzi-apache-kafka-operator-in-kind-cluster-with-kraft-mode)
-- [Build Custom Kustomize Plugin With Containerized KRM function](https://thirumurthi.hashnode.dev/build-custom-kustomize-plugin-with-containerized-krm-function)
 
 <!-- HASHNODE_BLOG:END -->
 
