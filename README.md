@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Strimzi Kafka Mirrormaker2 with KinD cluster](https://thirumurthi.hashnode.dev/strimzi-kafka-mirrormaker2-with-kind-cluster)
 - [Picocli framework with JBang CLI](https://thirumurthi.hashnode.dev/picocli-framework-with-jbang-cli)
 - [Dagger CI workflow using Java SDK](https://thirumurthi.hashnode.dev/dagger-ci-workflow-using-java-sdk)
 - [Extract data from unstructured data using AI Service with Camel, Langchain4j and JBang](https://thirumurthi.hashnode.dev/extract-data-from-unstructured-data-using-ai-service-with-camel-langchain4j-and-jbang)
@@ -36,7 +37,6 @@
 - [Spring Boot NullKeySerializer - Handle Kafka payload with null keys](https://thirumurthi.hashnode.dev/spring-boot-nullkeyserializer-handle-kafka-payload-with-null-keys)
 - [Run Integration in Apache Camel-K](https://thirumurthi.hashnode.dev/run-integration-in-apache-camel-k)
 - [Execute Java code like a script using JBang](https://thirumurthi.hashnode.dev/execute-java-code-like-a-script-using-jbang)
-- [Deploy Jaeger instance in KIND cluster using Jaeger operator](https://thirumurthi.hashnode.dev/deploy-jaeger-instance-in-kind-cluster-using-jaeger-operator)
 
 <!-- HASHNODE_BLOG:END -->
 
