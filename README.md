@@ -7,7 +7,7 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
-- [Apisix route OIDC plugin to connect to Zitadel odic not accessible within the same cluster](https://stackoverflow.com/questions/78463238/apisix-route-oidc-plugin-to-connect-to-zitadel-odic-not-accessible-within-the-sa)
+- [helm chart to manage crds using sub-charts](https://stackoverflow.com/questions/79623896/helm-chart-to-manage-crds-using-sub-charts)
 - [Answer by Tim for hyper-v to setup centos-9-stream dnf update throws ssl error](https://stackoverflow.com/questions/78050709/hyper-v-to-setup-centos-9-stream-dnf-update-throws-ssl-error/78054221#78054221)
 - [hyper-v to setup centos-9-stream dnf update throws ssl error](https://stackoverflow.com/questions/78050709/hyper-v-to-setup-centos-9-stream-dnf-update-throws-ssl-error)
 - [Container not able to access folder mounted from NFS storage class in kubernetes cluster](https://stackoverflow.com/questions/77267992/container-not-able-to-access-folder-mounted-from-nfs-storage-class-in-kubernetes)
