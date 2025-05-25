@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [spring-cloud-starter-kubernetes-client errors out compatible versions of KubernetesClientPodUtils](https://stackoverflow.com/questions/79632821/spring-cloud-starter-kubernetes-client-errors-out-compatible-versions-of-kuberne)
 - [helm chart to manage crds using sub-charts](https://stackoverflow.com/questions/79623896/helm-chart-to-manage-crds-using-sub-charts)
 - [Answer by Tim for hyper-v to setup centos-9-stream dnf update throws ssl error](https://stackoverflow.com/questions/78050709/hyper-v-to-setup-centos-9-stream-dnf-update-throws-ssl-error/78054221#78054221)
 - [hyper-v to setup centos-9-stream dnf update throws ssl error](https://stackoverflow.com/questions/78050709/hyper-v-to-setup-centos-9-stream-dnf-update-throws-ssl-error)
 - [Container not able to access folder mounted from NFS storage class in kubernetes cluster](https://stackoverflow.com/questions/77267992/container-not-able-to-access-folder-mounted-from-nfs-storage-class-in-kubernetes)
-- [spring.config.import reference to application.yaml in Spring](https://stackoverflow.com/questions/76973412/spring-config-import-reference-to-application-yaml-in-spring)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
