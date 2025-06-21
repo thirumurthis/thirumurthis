@@ -1,4 +1,4 @@
-name: "📚 Blog Updater"
+name: "📚 Hashnode Blog Updater"
 
 on:
   workflow_dispatch:
