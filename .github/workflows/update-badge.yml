@@ -1,4 +1,4 @@
-name: "📚 Badges updater"
+name: "📚 Certificate Badges updater"
 
 on:
   schedule:
