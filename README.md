@@ -16,7 +16,7 @@
 
 ### Badge and Achivements 👇
 <!--START_SECTION:badges-->
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/7164445a-41e5-4412-9ed3-d29cbe65f536 "CKAD: Certified Kubernetes Application Developer")
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/7164445a-41e5-4412-9ed3-d29cbe65f536 "CKAD: Certified Kubernetes Application Developer")
 [![Completion Award for Oracle MOOC: Java Virtual Machine Troubleshooting (2018)](https://images.credly.com/size/110x110/images/005a363c-b0a4-4f8a-85a3-64eafb7ad690/jvm.png)](http://www.credly.com/badges/cc359454-dbbb-410f-9b8a-2cf0f15dfe9d "Completion Award for Oracle MOOC: Java Virtual Machine Troubleshooting (2018)")
 <!--END_SECTION:badges-->
 
