@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Minio in KinD cluster with Cert-manager](https://thirumurthi.hashnode.dev/minio-in-kind-cluster-with-cert-manager)
 - [Strimzi Kafka Mirrormaker2 with KinD cluster](https://thirumurthi.hashnode.dev/strimzi-kafka-mirrormaker2-with-kind-cluster)
 - [Picocli framework with JBang CLI](https://thirumurthi.hashnode.dev/picocli-framework-with-jbang-cli)
 - [Dagger CI workflow using Java SDK](https://thirumurthi.hashnode.dev/dagger-ci-workflow-using-java-sdk)
@@ -36,7 +37,6 @@
 - [Develop REST API with Javalin and running app using JBang](https://thirumurthi.hashnode.dev/develop-rest-api-with-javalin-and-running-app-using-jbang)
 - [Spring Boot NullKeySerializer - Handle Kafka payload with null keys](https://thirumurthi.hashnode.dev/spring-boot-nullkeyserializer-handle-kafka-payload-with-null-keys)
 - [Run Integration in Apache Camel-K](https://thirumurthi.hashnode.dev/run-integration-in-apache-camel-k)
-- [Execute Java code like a script using JBang](https://thirumurthi.hashnode.dev/execute-java-code-like-a-script-using-jbang)
 
 <!-- HASHNODE_BLOG:END -->
 
