@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Spring AI MCP Client-Server with SSE Transport](https://thirumurthi.hashnode.dev/spring-ai-mcp-client-server-with-sse-transport)
 - [Spring AI MCP Client And Server To Use Local LLM](https://thirumurthi.hashnode.dev/spring-ai-mcp-client-and-server-to-use-local-llm)
 - [Minio in KinD cluster with Cert-manager](https://thirumurthi.hashnode.dev/minio-in-kind-cluster-with-cert-manager)
 - [Strimzi Kafka Mirrormaker2 with KinD cluster](https://thirumurthi.hashnode.dev/strimzi-kafka-mirrormaker2-with-kind-cluster)
@@ -36,7 +37,6 @@
 - [Extend Kubernetes API with operator-sdk](https://thirumurthi.hashnode.dev/extend-kubernetes-api-with-operator-sdk)
 - [Automate repetitive tasks using Shell script in Git Bash](https://thirumurthi.hashnode.dev/automate-repetitive-tasks-using-shell-script-in-git-bash)
 - [Develop REST API with Javalin and running app using JBang](https://thirumurthi.hashnode.dev/develop-rest-api-with-javalin-and-running-app-using-jbang)
-- [Spring Boot NullKeySerializer - Handle Kafka payload with null keys](https://thirumurthi.hashnode.dev/spring-boot-nullkeyserializer-handle-kafka-payload-with-null-keys)
 
 <!-- HASHNODE_BLOG:END -->
 
