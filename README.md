@@ -7,11 +7,11 @@
 
 ### StackOverflow Activity 👇
 <!-- STACKOVERFLOW:START -->
+- [Access ApisixRoute ingress rules from Nginx ingress controller [closed]](https://stackoverflow.com/questions/79790491/access-apisixroute-ingress-rules-from-nginx-ingress-controller)
 - [Spring boot 3.4.7 @Valid validation allows empty json on a PUT/PATCH rest endpoint](https://stackoverflow.com/questions/79698615/spring-boot-3-4-7-valid-validation-allows-empty-json-on-a-put-patch-rest-endpoi)
 - [An simple MCP Client which adds employ using pojo throws json parse error invoking the tool](https://stackoverflow.com/questions/79696280/an-simple-mcp-client-which-adds-employ-using-pojo-throws-json-parse-error-invoki)
 - [Answer by Tim for spring-cloud-starter-kubernetes-client errors out compatible versions of KubernetesClientPodUtils](https://stackoverflow.com/questions/79632821/spring-cloud-starter-kubernetes-client-errors-out-compatible-versions-of-kuberne/79650504#79650504)
 - [spring-cloud-starter-kubernetes-client errors out compatible versions of KubernetesClientPodUtils](https://stackoverflow.com/questions/79632821/spring-cloud-starter-kubernetes-client-errors-out-compatible-versions-of-kuberne)
-- [helm chart to manage crds using sub-charts](https://stackoverflow.com/questions/79623896/helm-chart-to-manage-crds-using-sub-charts)
 <!-- STACKOVERFLOW:END -->
 
 ### Badge and Achivements 👇
