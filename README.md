@@ -22,7 +22,6 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- [Spring gRPC application](https://thirumurthi.hashnode.dev/spring-grpc)
 - [Postgres DB with Backup config in KinD cluster](https://thirumurthi.hashnode.dev/postgres-db-with-backup-config-in-kind-cluster)
 - [Spring AI MCP Client-Server with SSE Transport](https://thirumurthi.hashnode.dev/spring-ai-mcp-client-server-with-sse-transport)
 - [Spring AI MCP Client And Server To Use Local LLM](https://thirumurthi.hashnode.dev/spring-ai-mcp-client-and-server-to-use-local-llm)
@@ -37,6 +36,7 @@
 - [Apache Apisix and Zitadel OIDC provider](https://thirumurthi.hashnode.dev/apache-apisix-and-zitadel-oidc-provider)
 - [Operator SDK - Create Controller and CRD to deploy Spring app in K8S cluster](https://thirumurthi.hashnode.dev/operator-sdk-create-controller-and-crd-to-deploy-spring-app-in-k8s-cluster)
 - [Extend Kubernetes API with operator-sdk](https://thirumurthi.hashnode.dev/extend-kubernetes-api-with-operator-sdk)
+- [Automate repetitive tasks using Shell script in Git Bash](https://thirumurthi.hashnode.dev/automate-repetitive-tasks-using-shell-script-in-git-bash)
 
 <!-- HASHNODE_BLOG:END -->
 
