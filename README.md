@@ -22,6 +22,8 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Download container extract the multi-image tar.gz file and load to artifactory ](https://thirumurthi.hashnode.dev/download-container-extract-the-multi-image-tar-gz-file-and-load-to-artifactory)
+- [Docker nexus registry backed with SSL and using image in kind cluster](https://thirumurthi.hashnode.dev/docker-nexus-registry-backed-with-ssl-and-using-image-in-kind-cluster)
 - [Stakater reloader  - Usage in Kubernetes](https://thirumurthi.hashnode.dev/stakater-reloader-usage-in-kubernetes)
 - [Spring gRPC application](https://thirumurthi.hashnode.dev/spring-grpc)
 - [Postgres DB with Backup config in KinD cluster](https://thirumurthi.hashnode.dev/postgres-db-with-backup-config-in-kind-cluster)
@@ -35,8 +37,6 @@
 - [Istio - Kubernetes Gateway API in Kind Cluster](https://thirumurthi.hashnode.dev/istio-kubernetes-gateway-api-in-kind-cluster)
 - [Observability - Jaeger Distributed Tracings](https://thirumurthi.hashnode.dev/observability-jaeger-distributed-tracings)
 - [Access Kubernetes Secrets In SpringBoot Application](https://thirumurthi.hashnode.dev/access-kubernetes-secrets-in-springboot-application)
-- [Apache Apisix and Zitadel OIDC provider](https://thirumurthi.hashnode.dev/apache-apisix-and-zitadel-oidc-provider)
-- [Operator SDK - Create Controller and CRD to deploy Spring app in K8S cluster](https://thirumurthi.hashnode.dev/operator-sdk-create-controller-and-crd-to-deploy-spring-app-in-k8s-cluster)
 
 <!-- HASHNODE_BLOG:END -->
 
