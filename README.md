@@ -22,6 +22,7 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Apache Kafka with Apicurio Schema registry](https://thirumurthi.hashnode.dev/apache-kafka-with-apicurio-schema-registry)
 - [Download container extract the multi-image tar.gz file and load to artifactory ](https://thirumurthi.hashnode.dev/download-container-extract-the-multi-image-tar-gz-file-and-load-to-artifactory)
 - [Docker nexus registry backed with SSL and using image in kind cluster](https://thirumurthi.hashnode.dev/docker-nexus-registry-backed-with-ssl-and-using-image-in-kind-cluster)
 - [Stakater reloader  - Usage in Kubernetes](https://thirumurthi.hashnode.dev/stakater-reloader-usage-in-kubernetes)
@@ -36,7 +37,6 @@
 - [Extract data from unstructured data using AI Service with Camel, Langchain4j and JBang](https://thirumurthi.hashnode.dev/extract-data-from-unstructured-data-using-ai-service-with-camel-langchain4j-and-jbang)
 - [Istio - Kubernetes Gateway API in Kind Cluster](https://thirumurthi.hashnode.dev/istio-kubernetes-gateway-api-in-kind-cluster)
 - [Observability - Jaeger Distributed Tracings](https://thirumurthi.hashnode.dev/observability-jaeger-distributed-tracings)
-- [Access Kubernetes Secrets In SpringBoot Application](https://thirumurthi.hashnode.dev/access-kubernetes-secrets-in-springboot-application)
 
 <!-- HASHNODE_BLOG:END -->
 
